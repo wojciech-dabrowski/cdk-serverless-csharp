@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsLambdaCdk.CdkApp", "AwsLambdaCdk.CdkApp\AwsLambdaCdk.CdkApp.csproj", "{FE5BE628-87BE-4605-9250-93AFED8FB9A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsLambdaCdk.Lambda", "AwsLambdaCdk.Lambda\AwsLambdaCdk.Lambda.csproj", "{25153948-F5DA-466C-B234-A6F9F00D4D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5BE628-87BE-4605-9250-93AFED8FB9A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5BE628-87BE-4605-9250-93AFED8FB9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5BE628-87BE-4605-9250-93AFED8FB9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5BE628-87BE-4605-9250-93AFED8FB9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25153948-F5DA-466C-B234-A6F9F00D4D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25153948-F5DA-466C-B234-A6F9F00D4D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25153948-F5DA-466C-B234-A6F9F00D4D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25153948-F5DA-466C-B234-A6F9F00D4D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

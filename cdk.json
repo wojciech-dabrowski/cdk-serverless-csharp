@@ -1,0 +1,3 @@
+{
+  "app": "dotnet publish -c Release AwsLambdaCdk.Lambda/AwsLambdaCdk.Lambda.csproj && dotnet run -p AwsLambdaCdk.CdkApp/AwsLambdaCdk.CdkApp.csproj"
+}
